@@ -1,0 +1,423 @@
+[
+    {
+        "id": 1,
+        "recipe_id": 9,
+        "recipes_name": "Fried Chicken",
+        "recipes_ingredients": [
+            "4 chicken legs and 4 chicken thighs",
+            "bone-in and skin-on2 cups all-purpose flour",
+            "2 teaspoons salt",
+            "1 teaspoon black pepper",
+            "1 teaspoon paprika"
+        ],
+        "recipes_instructions": "n a shallow dish, mix together the flour, salt, black pepper, paprika, garlic powder, onion powder, and cayenne pepper. Pour the buttermilk into another shallow dish. Dip each chicken piece into the buttermilk, then coat it in the seasoned flour mixture, shaking off any excess. Heat 2 inches of vegetable oil in a large deep skillet or dutch oven over medium-high heat until it reaches 350°F (175°C).",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "recipe_id": 8,
+        "recipes_name": "Cheeseburger",
+        "recipes_ingredients": [
+            "1 pound ground beef",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "4 hamburger buns",
+            "4 slices of cheddar cheese"
+        ],
+        "recipes_instructions": "Preheat a grill or grill pan over medium-high heat. In a medium bowl, mix together the ground beef, salt, and black pepper. Form the beef mixture into 4 equal-sized patties. Grill the burgers for 4-5 minutes on each side, or until they are cooked to your desired doneness.",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "recipe_id": 7,
+        "recipes_name": "Macaroni and Cheese",
+        "recipes_ingredients": [
+            "1 pound elbow macaroni",
+            "4 tablespoons unsalted butter",
+            "4 tablespoons all-purpose flour",
+            "2 cups whole milk",
+            "1/2 teaspoon salt"
+        ],
+        "recipes_instructions": "Preheat the oven to 375°F (190°C). Cook the elbow macaroni according to the package instructions until al dente. In a large saucepan, melt the butter over medium heat. Add the flour and whisk for 1-2 minutes until the mixture is smooth and bubbly. Gradually whisk in the milk until the mixture is smooth and creamy.",
+        "rating": 4.1
+    },
+    {
+        "id": 4,
+        "recipe_id": 6,
+        "recipes_name": "Chocolate Chip Cookies",
+        "recipes_ingredients": [
+            "2 1/4 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "1 cup unsalted butter",
+            "at room temperature"
+        ],
+        "recipes_instructions": "Preheat the oven to 375°F (190°C). In a medium bowl, whisk together the flour, baking soda, and salt. In a separate large bowl, beat the butter, white sugar, and brown sugar until light and fluffy. Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract. Gradually add the flour mixture to the butter mixture, stirring until just combined.",
+        "rating": 3.1
+    },
+    {
+        "id": 5,
+        "recipe_id": 5,
+        "recipes_name": "BBQ Ribs",
+        "recipes_ingredients": [
+            "2 racks baby back ribs",
+            "Salt and pepper",
+            "1 tablespoon paprika",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder"
+        ],
+        "recipes_instructions": "Preheat the oven to 275°F (135°C).  Remove the silver skin from the back of the ribs.  In a small bowl, mix together the salt, pepper, paprika, garlic powder, onion powder, and cayenne pepper. Rub the spice mixture onto both sides of the ribs. Place the ribs on a foil-lined baking sheet and tent with foil.",
+        "rating": 4.1
+    },
+    {
+        "id": 6,
+        "recipe_id": 4,
+        "recipes_name": "Pancakes",
+        "recipes_ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "3 1/2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 tablespoon white sugar",
+            "1 1/4 cups milk"
+        ],
+        "recipes_instructions": "In a large bowl, whisk together the flour, baking powder, salt, and sugar. In a separate bowl, whisk together the milk, egg, and melted butter.  Pour the wet ingredients into the dry ingredients and whisk until just combined. Don't overmix, or the pancakes will be tough.  Heat a non-stick pan or griddle over medium-high heat. Lightly grease the pan with cooking spray or additional butter.",
+        "rating": 4.1
+    },
+    {
+        "id": 7,
+        "recipe_id": 3,
+        "recipes_name": "Caesar Salad",
+        "recipes_ingredients": [
+            "1 head Romaine lettuce",
+            "washed and chopped",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1/4 cup olive oil"
+        ],
+        "recipes_instructions": "In a large bowl, add the chopped Romaine lettuce and croutons. In a small bowl, whisk together the olive oil, lemon juice, minced garlic, Worcestershire sauce, and Dijon mustard. Pour the dressing over the lettuce and croutons and toss to combine.  Sprinkle the grated Parmesan cheese over the salad and toss again.  Taste and adjust seasoning with salt and pepper, as needed.",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "recipe_id": 2,
+        "recipes_name": "Chili Con Carne",
+        "recipes_ingredients": [
+            "1 pound ground beef",
+            "1 onion",
+            "chopped",
+            "3 cloves garlic",
+            "minced"
+        ],
+        "recipes_instructions": "In a large pot, cook the ground beef over medium-high heat until browned. Drain any excess fat. Add the chopped onion, minced garlic, and red bell pepper to the pot and cook until softened. Stir in the chili powder, cumin, paprika, cayenne pepper, and black pepper. Cook for 1-2 minutes until fragrant. Add the diced tomatoes, kidney beans, and beef broth to the pot. Stir to combine.",
+        "rating": 4.6
+    },
+    {
+        "id": 9,
+        "recipe_id": 1,
+        "recipes_name": "Beef Stroganoff",
+        "recipes_ingredients": [
+            "1 pound beef sirloin",
+            "cut into thin strips",
+            "Salt and pepper",
+            "2 tablespoons butter",
+            "1/2 onion"
+        ],
+        "recipes_instructions": "Season the beef strips with salt and pepper. In a large skillet, melt the butter over medium heat. Add the onion and garlic and cook until softened. Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown. Remove the mushroom mixture from the skillet and set aside.",
+        "rating": 3.2
+    },
+    {
+        "id": 10,
+        "recipe_id": 9,
+        "recipes_name": "Baked Ziti",
+        "recipes_ingredients": [
+            "1 pound 'ziti pasta",
+            "1 pound 'ground' beef",
+            "1 onion",
+            "chopped",
+            "2 cloves 'garlic"
+        ],
+        "recipes_instructions": "Cook the ziti pasta according to package instructions. Drain and set aside. Preheat the oven to 375°F. In a large skillet, cook the ground beef over medium heat until browned. Add the chopped onion and minced garlic and cook for an additional 2-3 minutes, until the onion is softened. Add the spaghetti sauce to the skillet and stir to combine with the beef mixture. Simmer for 10 minutes.",
+        "rating": 4.4
+    },
+    {
+        "id": 11,
+        "recipe_id": 8,
+        "recipes_name": "Meatloaf",
+        "recipes_ingredients": [
+            "2 lbs. ground beef",
+            "1 cup breadcrumbs",
+            "1 cup milk",
+            "2 eggs",
+            "1/2 cup diced onion"
+        ],
+        "recipes_instructions": "Preheat the oven to 350°F (175°C). In a large bowl, combine the ground beef, breadcrumbs, onion, eggs, milk, ketchup, Worcestershire sauce, salt, and black pepper.  Mix everything together until well combined. Press the meat mixture into a 9x5 inch loaf pan.",
+        "rating": 4.1
+    },
+    {
+        "id": 12,
+        "recipe_id": 7,
+        "recipes_name": "Fried Rice",
+        "recipes_ingredients": [
+            "2 cups cooked rice",
+            "2 tablespoons vegetable oil",
+            "2 cloves garlic",
+            "minced",
+            "1 small onion"
+        ],
+        "recipes_instructions": "1/2 onion (chopped), 2 cloves garlic (minced), 1/2 cup frozen peas and carrots, 1/2 cup diced ham, 2 eggs (lightly beaten), 2 tablespoons soy sauce, 1 teaspoon sesame oil, 1/4 teaspoon black pepper, and 1/4 cup sliced green onions.",
+        "rating": 4.8
+    },
+    {
+        "id": 13,
+        "recipe_id": 6,
+        "recipes_name": "Chicken Alfredo",
+        "recipes_ingredients": [
+            "1 pound fettuccine pasta",
+            "1/2 cup unsalted butter",
+            "2 cloves garlic",
+            "minced",
+            "1 pint heavy cream"
+        ],
+        "recipes_instructions": " Cook fettuccine pasta according to package instructions. Cut chicken breasts into bite-sized pieces and season with salt and pepper. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned on both sides. Remove chicken from pan and set aside. In the same pan, melt butter and add minced garlic.",
+        "rating": 3
+    },
+    {
+        "id": 14,
+        "recipe_id": 5,
+        "recipes_name": "Cornbread",
+        "recipes_ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup yellow cornmeal",
+            "1/4 cup granulated sugar",
+            "1 tablespoon baking powder",
+            "1/2 teaspoon baking soda"
+        ],
+        "recipes_instructions": "Preheat the oven to 400°F (200°C) and grease a 9-inch (23cm) square baking dish. In a large bowl, whisk together the cornmeal, flour, sugar, baking powder, and salt.  In a separate bowl, whisk together the milk, eggs, melted butter, and vegetable oil.",
+        "rating": 5
+    },
+    {
+        "id": 15,
+        "recipe_id": 4,
+        "recipes_name": "Tacos",
+        "recipes_ingredients": [
+            "1 pound ground beef",
+            "1 packet taco seasoning mix",
+            "12 taco shells",
+            "1 cup shredded lettuce",
+            "1 cup shredded cheddar cheese"
+        ],
+        "recipes_instructions": "Cook ground beef in a skillet over medium heat until browned. Add taco seasoning mix and water according to package instructions. Heat taco shells according to package instructions. Fill taco shells with cooked beef mixture, shredded lettuce, and shredded cheddar cheese. Serve and enjoy!",
+        "rating": 3.1
+    },
+    {
+        "id": 16,
+        "recipe_id": 3,
+        "recipes_name": "Chicken Parmesan",
+        "recipes_ingredients": [
+            "4 boneless",
+            "skinless chicken breasts",
+            "1 cup seasoned bread crumbs",
+            "1/2 cup grated Parmesan cheese",
+            "1 egg, beaten"
+        ],
+        "recipes_instructions": "Preheat oven to 350 degrees F (175 degrees C). In a shallow dish or bowl, combine bread crumbs and Parmesan cheese. In another shallow dish or bowl, beat the egg. Dip chicken into beaten egg, then into bread crumb mixture, coating well. Place coated chicken into a 9x13 inch baking dish.",
+        "rating": 4
+    },
+    {
+        "id": 17,
+        "recipe_id": 2,
+        "recipes_name": "Sloppy Joes",
+        "recipes_ingredients": [
+            "Brown beef",
+            "add onions and garlic",
+            "stir in tomato sauce",
+            "ketchup",
+            "and brown sugar",
+            "simmer until thickened"
+        ],
+        "recipes_instructions": "Brown ground beef in a large skillet over medium heat. Add onions and garlic to the skillet and cook until softened. Stir in the remaining ingredients, including tomato sauce, ketchup, brown sugar, Worcestershire sauce, and any desired spices.",
+        "rating": 4.1
+    },
+    {
+        "id": 18,
+        "recipe_id": 1,
+        "recipes_name": "Clam Chowder",
+        "recipes_ingredients": [
+            "Clams",
+            "bacon",
+            "potatoes",
+            "onions",
+            "heavy cream."
+        ],
+        "recipes_instructions": "Cook bacon until crispy, sauté onions and potatoes in bacon fat, add clams and cream, simmer until thickened.Melt butter in pot, cook onions until translucent, whisk in flour, add milk and clams, simmer until thickened.",
+        "rating": 4.6
+    },
+    {
+        "id": 19,
+        "recipe_id": 9,
+        "recipes_name": "Lobster Roll",
+        "recipes_ingredients": [
+            "Lobster meat",
+            "mayo",
+            "lemon juice",
+            "celery",
+            "hot dog buns."
+        ],
+        "recipes_instructions": "Mix lobster meat, mayo, lemon juice, celery, spoon into hot dog buns, serve cold. Melt butter in skillet, add lobster meat, lemon juice, celery salt, spoon into hot dog buns, serve warm",
+        "rating": 5
+    },
+    {
+        "id": 20,
+        "recipe_id": 8,
+        "recipes_name": "Philly Cheesesteak",
+        "recipes_ingredients": [
+            "Steak",
+            "onions",
+            "green peppers",
+            "provolone cheese",
+            "hoagie rolls."
+        ],
+        "recipes_instructions": "Saute onions and green peppers, cook steak, melt provolone cheese on top, serve on hoagie rolls.Season beef tenderloin, grill to desired doneness, top with horseradish cheddar cheese, serve on ciabatta rolls with arugula.",
+        "rating": 4.5
+    },
+    {
+        "id": 21,
+        "recipe_id": 7,
+        "recipes_name": "New York-style Pizza",
+        "recipes_ingredients": [
+            "Pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "parmesan cheese",
+            "pepperoni."
+        ],
+        "recipes_instructions": "Preheat oven to 500°F, top pizza dough with tomato sauce, cheese, and pepperoni, bake for 10-15 minutes.",
+        "rating": 4.5
+    },
+    {
+        "id": 22,
+        "recipe_id": 6,
+        "recipes_name": "Pot Roast",
+        "recipes_ingredients": [
+            "Beef roast",
+            "carrots",
+            "potatoes",
+            "onion",
+            "garlic"
+        ],
+        "recipes_instructions": "Brown roast, add vegetables and broth, cook low and slow for several hours.Mix soup mix and broth, add roast and vegetables, cook low and slow for several hours.Mix Worcestershire sauce, mustard, and brown sugar, rub on roast, add vegetables and broth, cook low and slow for several hours.",
+        "rating": 3.9
+    },
+    {
+        "id": 23,
+        "recipe_id": 5,
+        "recipes_name": "Shrimp and Grits",
+        "recipes_ingredients": [
+            "Shrimp",
+            "grits",
+            "chicken broth",
+            "heavy cream",
+            "cheddar cheese."
+        ],
+        "recipes_instructions": "Cook grits in broth and cream, add cheese, sauté shrimp, serve over grits. Cook grits, sauté sausage, shrimp, onion, and garlic, add seasoning, serve over grits with green onion.",
+        "rating": 4.9
+    },
+    {
+        "id": 24,
+        "recipe_id": 4,
+        "recipes_name": "BBQ Pulled Pork Sandwiches",
+        "recipes_ingredients": [
+            "Pork shoulder",
+            "BBQ sauce",
+            "onion",
+            "garlic",
+            "chicken broth."
+        ],
+        "recipes_instructions": "Season pork, sear in pan, sauté onions and garlic, add pork, broth, and BBQ sauce, cook on low for 8 hours, shred and serve on buns.",
+        "rating": 3.7
+    },
+    {
+        "id": 25,
+        "recipe_id": 3,
+        "recipes_name": "Buffalo Chicken Wings",
+        "recipes_ingredients": [
+            "Chicken wings",
+            "hot sauce",
+            "butter",
+            "white vinegar",
+            "Worcestershire sauce."
+        ],
+        "recipes_instructions": "Bake wings, melt butter in saucepan, mix in hot sauce, vinegar, and Worcestershire sauce, toss wings in sauce, bake again until crispy.",
+        "rating": 5
+    },
+    {
+        "id": 26,
+        "recipe_id": 2,
+        "recipes_name": "French Toast",
+        "recipes_ingredients": [
+            "Bread",
+            "eggs",
+            "milk",
+            "vanilla extract",
+            "ground cinnamon"
+        ],
+        "recipes_instructions": "Whisk eggs, milk, vanilla, and cinnamon, soak bread slices in mixture, cook in buttered skillet until golden brown on both sides.",
+        "rating": 4.1
+    },
+    {
+        "id": 27,
+        "recipe_id": 1,
+        "recipes_name": "Banana Bread",
+        "recipes_ingredients": [
+            "baking powder",
+            "baking soda",
+            "salt",
+            "unsalted butter",
+            "granulated sugar"
+        ],
+        "recipes_instructions": "Mix flour, baking powder, baking soda, and salt, cream butter and sugar, add eggs one at a time, mix in bananas, vanilla, and sour cream, add dry ingredients and mix until just combined, stir in chopped nuts, bake at 350°F for 60-65 minutes.",
+        "rating": 5
+    },
+    {
+        "id": 28,
+        "recipe_id": 9,
+        "recipes_name": "Red Velvet Cake",
+        "recipes_ingredients": [
+            "All-purpose flour",
+            "cocoa powder",
+            "baking soda",
+            "salt",
+            "buttermilk"
+        ],
+        "recipes_instructions": "Sift together flour, cocoa powder, baking soda, and salt, mix buttermilk, oil, sugar, eggs, red food coloring, and vanilla extract, add dry ingredients to wet, mix in vinegar, bake at 350°F for 25-30 minutes, cool and frost with cream cheese frosting.",
+        "rating": 5
+    },
+    {
+        "id": 29,
+        "recipe_id": 6,
+        "recipes_name": "Key Lime Pie",
+        "recipes_ingredients": [
+            "Graham cracker crumbs",
+            "butter",
+            "sugar",
+            "sweetened condensed milk",
+            "key lime juice"
+        ],
+        "recipes_instructions": "Mix graham cracker crumbs, butter, and sugar, press into pie dish, whisk together sweetened condensed milk, key lime juice, and egg yolks, pour into crust and bake at 350°F for 15-20 minutes, chill and serve with whipped cream and lime slices for garnish. ",
+        "rating": 5
+    },
+    {
+        "id": 30,
+        "recipe_id": 2,
+        "recipes_name": "Apple Pie",
+        "recipes_ingredients": [
+            "Apples",
+            "sugar",
+            "cinnamon",
+            "nutmeg",
+            "salt"
+        ],
+        "recipes_instructions": "Peel and slice apples, toss with sugar, cinnamon, nutmeg, salt, and lemon juice, dot with butter, add top crust and bake at 375°F for 45-50 minutes.",
+        "rating": 5
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "chefPhoto": "https://i.ibb.co/ykPg6tc/chef-1.jpg",
+        "chefName": "Alice Smith",
+        "years_of_experience": 10,
+        "recipes_quantity": 3,
+        "total_like": 100
+    },
+    {
+        "id": 2,
+        "chefPhoto": "https://i.ibb.co/ZMCf4X5/chef-9.jpg",
+        "chefName": "Bob Johnson",
+        "years_of_experience": 8,
+        "recipes_quantity": 4,
+        "total_like": 50
+    },
+    {
+        "id": 3,
+        "chefPhoto": "https://i.ibb.co/D7X351k/chef-8.jpg",
+        "chefName": "Charlie Lee",
+        "years_of_experience": 5,
+        "recipes_quantity": 3,
+        "total_like": 20
+    },
+    {
+        "id": 4,
+        "chefPhoto": "https://i.ibb.co/nRtDyzs/chef-7.jpg",
+        "chefName": "David Chen",
+        "years_of_experience": 15,
+        "recipes_quantity": 3,
+        "total_like": 150
+    },
+    {
+        "id": 5,
+        "chefPhoto": "https://i.ibb.co/7NcDLxB/chef-6.jpg",
+        "chefName": "Emily Davis",
+        "years_of_experience": 12,
+        "recipes_quantity": 3,
+        "total_like": 120
+    },
+    {
+        "id": 6,
+        "chefPhoto": "https://i.ibb.co/2YJN86n/chef-5.jpg",
+        "chefName": "Franklin Garcia",
+        "years_of_experience": 3,
+        "recipes_quantity": 4,
+        "total_like": 55
+    },
+    {
+        "id": 7,
+        "chefPhoto": "https://i.ibb.co/nbGv2kD/chef-4.jpg",
+        "chefName": "Grace Kim",
+        "years_of_experience": 6,
+        "recipes_quantity": 3,
+        "total_like": 30
+    },
+    {
+        "id": 8,
+        "chefPhoto": "https://i.ibb.co/G7H99XY/chef-3.jpg",
+        "chefName": "Henry Lee",
+        "years_of_experience": 7,
+        "recipes_quantity": 3,
+        "total_like": 40
+    },
+    {
+        "id": 9,
+        "chefPhoto": "https://i.ibb.co/gJ355M2/chef-2.jpg",
+        "chefName": "Isabella Martinez",
+        "years_of_experience": 9,
+        "recipes_quantity": 4,
+        "total_like": 60
+    }
+]
